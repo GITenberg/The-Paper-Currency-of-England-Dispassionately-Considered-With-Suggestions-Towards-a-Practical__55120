@@ -1,5 +1,8 @@
 _repo: The-Paper-Currency-of-England-Dispassionately-Considered-With-Suggestions-Towards-a-Practical__55120
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55120-h/images/cover.jpg
 creator:
   author:
     agent_name: Haslam, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '32876'
     url: http://www.gutenberg.org/2009/agents/32876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55120#The-Paper-Currency-of-England-Dispassionately-Considered-With-Suggestions-Towards-a-Practical_
 gutenberg_issued: '2017-07-15'
 gutenberg_type: Text
 identifiers:
